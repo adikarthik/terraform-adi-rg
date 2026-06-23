@@ -21,7 +21,7 @@ provider "azurerm" {
   features {}
 }
 variable "rgname" {
-  default = "teraform12"
+  default = "terafrm12"
 }
 variable "location" {
   default = "West US 2"
