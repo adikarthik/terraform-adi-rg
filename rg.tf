@@ -25,7 +25,7 @@ client_id       = "895046f8-297d-45a6-93a2-a4840da7c2b3"
   subscription_id = "20a282cd-41fe-411d-a64e-1727fb143505"
 }
 variable "rgname" {
-  default = "teraform"
+  default = "teraform123"
 }
 variable "location" {
   default = "West US 2"
